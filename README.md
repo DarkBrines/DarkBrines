@@ -1,5 +1,5 @@
 ### Coucou 👋
-Je suis un développeur Français dans la team **DPT Studio** et je fais également mes petites contributions indépendantes.
+Je suis un développeur Français dans la team **DPT Studio** et je fais également mes petites contributions indépendantes, ainsi que des projets personels.
 
 ![DarkBrines's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarkBrines&count_private=true&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=radical&layout=compact) ![DarkBrines's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DarkBrines&theme=radical)
 
