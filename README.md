@@ -1,5 +1,5 @@
 ### Coucou 👋
-Je suis un développeur Français et je fais également mes petites contributions indépendantes, ainsi que des projets personels.
+Je suis un développeur Français, auteur de contributions aléatoires et de projets (trop) ambitieux.
 
 ![DarkBrines's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarkBrines&count_private=true&show_icons=true&theme=radical)
 
