@@ -1,4 +1,4 @@
-### Coucou 👋
+### Salut 👋
 Je suis un développeur Français, auteur de contributions par ci par là et de projets ambitieux.
 
 [![wakatime](https://wakatime.com/badge/user/8057d7e5-a98c-4e5b-bbfe-22fdce63ffa3.svg)](https://wakatime.com/@8057d7e5-a98c-4e5b-bbfe-22fdce63ffa3)
