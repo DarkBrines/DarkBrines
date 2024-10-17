@@ -1,5 +1,4 @@
-### Salut 👋
-Je suis un développeur Français, auteur de contributions par ci par là et de petits projets.
+Je suis un petit développeur Français indépendant, auteur de contributions occasionnelles et de petits projets.
 
 Développeur sur le [projet Paxo](https://github.com/paxo-phone)
 
